@@ -1,0 +1,20 @@
+# Core application and data processing
+streamlit
+pandas
+numpy
+scikit-learn
+
+# Explainability
+shap
+
+# Visualisation
+matplotlib
+plotly
+
+# Optional model libraries: remove any not imported by your scripts
+xgboost
+lightgbm
+catboost
+
+# Model persistence
+joblib

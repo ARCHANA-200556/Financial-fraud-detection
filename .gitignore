@@ -1,0 +1,23 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Large datasets and processed splits
+paysim.csv
+X_train.csv
+X_val.csv
+X_test.csv
+y_train.csv
+y_val.csv
+y_test.csv
+
+# Generated CSV results (keep selected outputs only if needed)
+# Add individual result filenames here if they should not be uploaded.
+
+# Training logs
+catboost_info/
+
+# Secrets and local environment files
+.env
